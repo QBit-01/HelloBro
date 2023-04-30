@@ -20,5 +20,8 @@ int32_t main() {
 
     }
 
+    cout<<7777<<endl;
+    while(true) cout<<11<<endl;
+
     return 0;
 }
