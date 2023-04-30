@@ -28,8 +28,10 @@ int32_t main() {
     while(true) cout<<11<<endl;
 
     int a = 0; 
+    // yes vro 
     a--;
     // done
+    
 
     return 0;
 }
