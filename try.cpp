@@ -24,14 +24,14 @@ int32_t main() {
     /////////////////////////////////////
     
 
-    cout<<7777<<endl;
-    while(true) cout<<11<<endl;
+    cout<<7777<<'\n';
+    while(false) cout<<8430943<<endl;
 
-    int a = 0; 
+    int a = 854; 
     // yes vro 
     a--;
     // done
     
-
+    char ch = 'c';
     return 0;
 }
