@@ -9,6 +9,10 @@ int32_t main() {
         int n; cin>>n;
         vector<int> a(n);
         for(auto &i:a) cin>>i;
+        
+        /*
+        writing a comment
+        */
     }
 
     // Added here 
