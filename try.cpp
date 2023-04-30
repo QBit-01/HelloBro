@@ -26,8 +26,8 @@ int32_t main() {
 
     cout<<7777<<endl;
     while(true) cout<<11<<endl;
-
-    int a = 0; 
+    
+    
     // yes vro 
     a--;
     // done
