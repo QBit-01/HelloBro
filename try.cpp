@@ -27,7 +27,7 @@ int32_t main() {
     cout<<7777<<'\n';
     while(false) cout<<8430943<<endl;
 
-    int a = 854; 
+    int a = 84; 
     // yes vro 
     a--;
     // done
